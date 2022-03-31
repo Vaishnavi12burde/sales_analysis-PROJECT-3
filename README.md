@@ -87,6 +87,9 @@ Data Analysis Using Power BI
 
 
 
-![2](https://user-images.githubusercontent.com/101336439/161127731-fcc99163-70f7-4d3a-ad71-3570c3238e8f.png)
+![Screenshot (280)](https://user-images.githubusercontent.com/101336439/161137914-8438925e-6249-43df-b78d-2f67a6eb34c2.png)
+![Screenshot (281)](https://user-images.githubusercontent.com/101336439/161137926-550fbf79-0090-4130-a17f-97dc1c2375c2.png)
+![Screenshot (282)](https://user-images.githubusercontent.com/101336439/161137933-8d80edd8-b3f5-49df-a60d-ba234887cb9e.png)
+
 
 
